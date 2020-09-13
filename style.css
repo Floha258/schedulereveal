@@ -1,0 +1,148 @@
+@font-face {
+  font-family: 'Comfort';
+  src: url('Comfortaa-Bold.ttf') format("truetype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sushi';
+  src: url('sushi.ttf') format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+
+#main {
+  width: 500px;
+  height: 720px;
+  margin: 100px 100px 0px 60px;
+  background: rgba(0, 0, 0, 0.8);
+  -webkit-transition: opacity 2.5s ease-in-out;
+  -moz-transition: opacity 2.5s ease-in-out;
+  -ms-transition: opacity 2.5s ease-in-out;
+  -o-transition: opacity 2.5s ease-in-out;
+  transition: opacity 2.5s ease-in-out;
+}
+
+#gameNaam, #runnerNaam, #estNaam, #catNaam, #dagNaam, #tijdNaam  {
+  -webkit-transition: opacity 2.5s ease-in-out;
+  -moz-transition: opacity 2.5s ease-in-out;
+  -ms-transition: opacity 2.5s ease-in-out;
+  -o-transition: opacity 2.5s ease-in-out;
+  transition: opacity 2.5s ease-in-out;
+}
+
+.tr {
+  height: 880px;
+}
+
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 500px;
+  animation-name: name;
+  animation-duration: 4s;
+}
+
+.tg td {
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: black;
+  height: 120px;
+}
+
+.tg th {
+  padding: 10px 5px;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal;
+  border-color: black;
+}
+
+.tg .tg-xldj {
+  border-color: inherit;
+  text-align: left;
+}
+
+.tg .tg-xldj2 {
+  border-color: inherit;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: #fff;
+  width: 70px;
+}
+
+.tg .tg-0pky {
+  border-color: inherit;
+  text-align: left;
+  vertical-align: top
+}
+
+.texty {
+  font-size: 20px;
+  color: #000;
+  padding-top: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-family: 'Comfort';
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: white;
+}
+
+#schedule {
+  position: fixed;
+  overflow:auto;
+  height: 940px;
+  width: 900px;
+  top: 130px;
+  left: 900px;
+  font-family: 'Comfort';
+  /* background: rgba(0, 0, 0, 0.5); */
+}
+
+#schedule::-webkit-scrollbar {
+    display: none;
+    color: #fff;
+}
+
+#m, #m th, #m td {
+  padding: 0.8rem;
+  /*border-collapse: collapse; */
+  border-radius: 5px;
+  color: #fff;
+  /* font-family: "Raleway", sans-serif, sans; */
+}
+#m {
+  margin: 0px auto;
+  background: rgba(0,0,0,0.8);
+  width:900px;
+}
+
+#m tr:nth-child(1n) {
+  opacity: 0;
+}
+
+/* To center just the first column */
+#m tr td:first-child {
+  text-align: center;
+}
+
+#m tr:nth-child(2n) {
+  background: #fff;
+  opacity: 0.8;
+}
+#m tr:nth-child(2n - 1) {
+  background: rgba(0,0,0,0.2);
+    opacity: 0.8;
+}
+/* #m tr:first-child th:first-child {
+  border-top-left-radius: 15px;
+} */

@@ -1,0 +1,113 @@
+Date,Start time,Runner(s),Game,Category,Estimate
+11-8-2019,12:00,BSG,Intro,Start%,0:30:00
+11-8-2019,12:40,ArayaLoL,Pokémon Diamond/Pearl,Any%,1:15:00
+11-8-2019,14:05,ShuriBear,Ninja Gaiden Black,Any%,2:30:00
+11-8-2019,16:45,janglestorm,First Samurai,Any%,0:21:00
+11-8-2019,17:16,JimB162 vs Flutz123,Out of Gas,Any% (Randomized Level Order),1:25:00
+11-8-2019,18:51,ZnTSaito vs Crrool,Lufia II: Rise of the Sinistrals,Gades% Retry,1:25:00
+11-8-2019,20:26,RDVvsTheWorld,Yoshi's Crafted World,Any% Classic Mode,2:40:00
+11-8-2019,23:16,Riekelt,The Legend of Zelda: The Wind Waker,Randomizer,2:40:00
+12-8-2019,02:06,Boxmeister,Final Fantasy V,Any% GBA,4:45:00
+12-8-2019,07:06,ShadowFrost,Learn with Pokémon: Typing Adventure,Catch Mew%,0:53:00
+12-8-2019,08:09,Kinnin11,Okami,NG+ any%,1:23:00
+12-8-2019,09:42,YumeTsubasaCH,Mole Mania,All Levels,1:15:00
+12-8-2019,11:07,ThePlumberHimself,Zapper: One Wicked Cricket,any%,0:25:00
+12-8-2019,11:42,JimB162,Animorphs,100% / 125%,0:50:00
+12-8-2019,12:52,Tricrow,XCOM2,Any% No save abuse - Heroes,2:35:00
+12-8-2019,15:37,NepumukGaming,Ink,any%,0:15:00
+12-8-2019,16:02,Relvoi,Splatoon 2,Hero Mode Any%,1:55:00
+12-8-2019,18:07,YourEverydaySpeedrunner,Portal,Glitchless,0:20:00
+12-8-2019,18:37,Knipje vs theVug,Portal 2,NoSLA Inbounds,1:50:00
+12-8-2019,20:37,Badkiara,Shantae: Risky's Revenge,Any%,0:25:00
+12-8-2019,21:12,janglestorm,Shantae and the Pirate's Curse,Any% Pirate Mode (No OoB) / All Dark Magic Pirate Mode (no OoB),1:00:00
+12-8-2019,22:37,TehHammerShow,Grand Theft Auto: Vice City,Any% (NO SSU),1:10:00
+12-8-2019,23:57,Nattyo,Crash Team Racing,Any% Warpless,0:55:00
+13-8-2019,01:12,S4nsSkill,Mario Kart: Double Dash,All Cup Tour,0:42:00
+13-8-2019,02:04,Wizboy73,Rayman M,All races,0:32:00
+13-8-2019,02:46,Thextera_,Rayman,Any%,1:25:00
+13-8-2019,04:21,DoubleDubbel,RWBY: Grimm Eclipse,Solo No Skips - Ruby,1:10:00
+13-8-2019,05:41,Sniperwave,Valkyrie Profile: Covenant of the Plume,C-Ending,2:00:00
+13-8-2019,07:51,TheRolePlayingGuy,Sword Art Online: Fatal Bullet,Easy Any% NG+,2:30:00
+13-8-2019,10:31,Rasschla & Kaethil,Harry Potter and the Goblet of Fire,Any% Co-op,1:30:00
+13-8-2019,12:11,Firefox__ & Knipje,Portal 2,Coop all main courses%,1:00:00
+13-8-2019,13:38,Riekelt & CertainlySomeoneHere,Lara Croft and the Guardian of Light,NG+ Any% Coop,0:32:00
+13-8-2019,14:20,theVug,Jazz Jackrabbit 2,Episode 1-4 ,0:25:00
+13-8-2019,14:55,JimB162,Wave Race: Blue Storm,Official Nintendo Competition,0:20:00
+13-8-2019,15:25,SiverIGuess,[Setup Buffer] Lemma,Any%,0:40:00
+13-8-2019,16:15,NilsRunsFast,Rayman 2: The Great Escape,Any%,1:30:00
+13-8-2019,17:55,YumeTsubasaCH vs Kinnin11,Kirby's Dream Land,Beat the Game,0:15:00
+13-8-2019,18:20,SLweed vs ArayaLoL,Pokémon Yellow,Any% Glitchless Race,2:10:00
+13-8-2019,20:40,Grumpmeister,Zaku,Any%,0:40:00
+13-8-2019,21:30,Boxmeister,Metroid Spooky Mission,100% v1.2,0:45:00
+13-8-2019,22:25,LinkaMeister,Hyper Metroid,Any%,1:17:00
+13-8-2019,23:52,DistroTV,Halo 5: Guardians,Legendary,1:45:00
+14-8-2019,01:47,AlaeusSR vs Shadowfrost,Super Mario Galaxy,Any%,2:45:00
+14-8-2019,04:52,Tricrow,Renown explorers international society ,Any%,0:15:00
+14-8-2019,05:17,Crrool,Poképark 2: Wonders Beyond ,Any%,3:05:00
+14-8-2019,08:32,Xita,Bastion,Any% No MMS,0:20:00
+14-8-2019,09:02,RDVvsTheWorld vs GreenSnowDog,Yoshi's Story,Any% / All Melons 1-lap,0:15:00
+14-8-2019,09:42,Rasschla,[Setup Buffer] Pooh and Tigger's Hunny Safari,Beat the game (easy),0:30:00
+14-8-2019,10:22,YumeTsubasaCH,The Little Mermaid,Any%,0:10:00
+14-8-2019,10:42,CertainlySomeoneHere,Phineas and Ferb: Ride Again,Any%,1:45:00
+14-8-2019,12:37,Riekelt,Goat Simulator,All Trophies,0:50:00
+14-8-2019,13:52,Kinnin11,Owlboy,All Bosses,0:55:00
+14-8-2019,14:57,Mystery person,Bonus game,,
+14-8-2019,15:17,Exodustx0,Myst,All Pages,0:20:00
+14-8-2019,15:48,Nandii,Rayman 3: Hoodlum Havoc,All Teensies,1:35:00
+14-8-2019,17:33,ThePlumberHimself,SEUM: Speedrunners from Hell,any%,0:25:00
+14-8-2019,18:08,S4nsSkill,The Useful Dead,Beat the game,0:10:00
+14-8-2019,18:28,Grumpmeister,Zelda's Adventure,Any%,1:22:00
+14-8-2019,20:00,DoubleDubbel vs Linkameister,Hello Kitty: Roller Rescue,Any%,0:42:00
+14-8-2019,20:52,SLweed,Pokemon Snap,Any%,0:30:00
+14-8-2019,21:32,WiredWicky,Blossom Tales,Any% no s/q,0:25:00
+14-8-2019,22:07,Dolany,Mages of Mystralia,Any% NSC,0:28:00
+14-8-2019,22:55,KillerChair,Megaman Zero 4,Any% (normal),1:00:00
+14-8-2019,00:05,PiranhaPig,The Messenger,Any% no OOB,2:20:00
+15-8-2019,02:35,jellyd0ts,Celeste X,100% Pacifist Dashless,0:10:00
+15-8-2019,02:55,wartab,Pokémon X,Any%,4:15:00
+15-8-2019,07:20,YourEverydaySpeedrunner,Titan Souls,any%,0:18:00
+15-8-2019,07:48,SatanicNerd,Omensight,Glitchless / Low%,2:00:00
+15-8-2019,09:58,Tricrow,Darkest dungeon,Hag% vs Swine%,0:40:00
+15-8-2019,10:48,GreenSnowDog,[Setup Buffer] Pikuniku,Any%,0:45:00
+15-8-2019,11:43,quimito99 vs RDVvsTheWorld,Mario vs Donkey Kong,Any%,0:55:00
+15-8-2019,12:48,ShadowFrost,New Super Mario Bros. Wii,Any%,0:32:00
+15-8-2019,13:30,NilsRunsFast,Rayman Revolution,All Masks,1:05:00
+15-8-2019,15:00,Thextera_,Blitz Breaker,Any%,0:27:00
+15-8-2019,15:37,jellyd0ts,Super Clew Land,Any%,0:20:00
+15-8-2019,16:07,TheRolePlayingGuy,Black Clover: Quartet Knights,Easy Any%,0:40:00
+15-8-2019,16:57,Kinnin11 & Sniperwave,Kirby & the Amazing Mirror,100% Co-op,0:55:00
+15-8-2019,18:02,Riekelt,Katana Zero,All Stages,0:30:00
+15-8-2019,18:52,Boxmeister & Xita vs YumeTsubasaCH & Escheria,Super Metroid & The Legend of Zelda: A Link to the Past,2player relay Combo Randomizer Race,4:30:00
+15-8-2019,23:32,GreenSnowDog,Captain Toad Treasure Tracker,Any%,1:40:00
+16-8-2019,01:22,mrmeanmoustache,Super Mario 64,120 Star,2:10:00
+16-8-2019,03:42,SiverIGuess,Super Mario 3D Land,Any% Warpless,1:15:00
+16-8-2019,05:07,DarkCucco,Shovel Knight Shovel of Hope,Any%,1:05:00
+16-8-2019,06:22,Nandii,Mario Kart Wii,32 Tracks - No skips - Balanced items,1:35:00
+16-8-2019,08:07,Crrool,Evoland,Any%,0:42:00
+16-8-2019,08:59,DoubleDubbel,The World Next Door,Any%,1:05:00
+16-8-2019,10:14,YumeTsubasaCH,[Setup Buffer] Tetris Attack,Easy - V-Hard,0:40:00
+16-8-2019,11:04,Mystery person,Bonus game,,
+16-8-2019,11:26,FiremanPC,Vigilance,Any% (Rookie Difficulty - Hex),0:50:00
+16-8-2019,12:26,Heinki,Deus Ex Human Revolution,any%,0:50:00
+16-8-2019,13:26,Escheria,Environmental Station Alpha,Any% Inbounds - Standard Mode,0:25:00
+16-8-2019,14:01,Kaethil vs Rasschla,Harry Potter and the Chamber of Secrets,Any% 60 FPS,0:50:00
+16-8-2019,15:06,ShadowFrost & YourEverydaySpeedrunner,Sonic Adventure 2: Battle,All Stories Relay,1:45:00
+16-8-2019,17:01,Xita,Octopath Traveler,Single Story(Cyrus),1:10:00
+16-8-2019,18:21,Kinnin11,Kirby: Nightmare in Dreamland,Any%,0:43:00
+16-8-2019,19:14,GreenSnowDog vs Riekelt vs RDVvsTheWorld,Donkey Kong Country : Tropical Freeze ,Funky Mode Any% No Death Abuse,1:40:00
+16-8-2019,21:04,ShuriBear ,Ninja Gaiden,Any%,0:15:00
+16-8-2019,21:29,wartab & ArayaLoL,Pokémon Let's Go Pikachu/Eevee,Any% (race),3:35:00
+17-8-2019,01:14,Sniperwave vs SiverIGuess,Spectrobes,Any%,1:25:00
+17-8-2019,02:49,Tricrow,Steamworld Heist,Casual%,1:55:00
+17-8-2019,04:54,ShadowFrost & ThePlumberHimself,Super Mario Galaxy 2,Any% relay,3:45:00
+17-8-2019,08:59,jellyd0ts,Volgarr the Viking,Ending C+,0:35:00
+17-8-2019,09:44,GreenSnowDog,Donut County,Any%,0:40:00
+17-8-2019,10:35,ShuriBear,Lufia 2,Ancient Cave Any% No Manipulation,2:00:00
+17-8-2019,12:45,YumeTsubasaCH,RosenkreuzStilette Freudenstachel,Freudia Any%,0:40:00
+17-8-2019,13:35,Heinki,Clustertruck,twitch%,0:40:00
+17-8-2019,14:25,Riekelt,Ape Escape 2,All Monkeys,2:00:00
+17-8-2019,16:50,ThePlumberHimself vs Crrool,Kwirk,99rms easy relay (race),0:30:00
+17-8-2019,17:30,Grumpmeister,Link: Faces of Evil vs Zelda: Wand of Gamelon,All Cutscenes,1:00:00
+17-8-2019,18:40,Jelster64,The Legend of Zelda: Ocarina of Time,No IM/WW,1:21:00
+17-8-2019,20:11,BSG,Afterthoughts,End%,1:00:00
+,,BSG,True BSG Afterparty,,

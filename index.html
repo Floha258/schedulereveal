@@ -1,0 +1,54 @@
+<HTML>
+
+<HEAD>
+  <link rel="stylesheet" href="style.css">
+
+</HEAD>
+<BODY background="bg.png">
+  <!-- <button onclick="prev()">prev</button> -->
+<button onclick="nexxt()">NEXT</button>
+<button onclick="endit()" style="margin-left:450px; background-color:red;">Stop Streaming</button>
+<div id="wrapper">
+  <div id="main" style="opacity:0;">
+<div id="tableman">
+    <table class="tg">
+      <tr>
+        <td class="tg-xldj2"><div id=""><img src="img/game.png" /></div></td>
+        <td class="tg-xldj "><div class="texty" id="gameNaam"></div></td>
+      </tr>
+      <tr>
+        <td class="tg-xldj2"><div id=""><img src="img/user.png" /></div></td>
+        <td class="tg-xldj "><div class="texty" id="runnerNaam"></div></td>
+      </tr>
+      <tr>
+        <td class="tg-xldj2"><div id=""><img src="img/cat.png" /></div></td>
+        <td class="tg-xldj "><div class="texty" id="catNaam"></div></td>
+      </tr>
+      <tr>
+        <td class="tg-xldj2"><div id=""><img src="img/Estimate.png" /></div></td>
+        <td class="tg-xldj"><div class="texty" id="estNaam"></div></td>
+      </tr>
+      <tr>
+        <td class="tg-xldj2" rowspan="2"><div id=""><img src="img/Date.png" /></div></td>
+        <td class="tg-xldj"><div class="texty" id="dagNaam"></div></td>
+      </tr>
+      <tr>
+        <td class="tg-xldj"><div class="texty" id="tijdNaam"></div></td>
+      </tr>
+    </table>
+    </div>
+  </div>
+  <div id="schedule" style="opacity:0;" >
+    <table id="m">
+      <!-- <tr class='hide'><th> # </th><th> Name </th><th> Position </th></tr> -->
+    </table>
+  </div>
+  </div>
+</BODY>
+        <!-- <script data-main="scripts" src="require.js"></script> -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type="text/javascript" src="scripts.js"></script>
+<script src="https://d3js.org/d3-dsv.v1.min.js"></script>
+<script src="https://d3js.org/d3-fetch.v1.min.js"></script>
+
+</HTML>
